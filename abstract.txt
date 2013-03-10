@@ -1,0 +1,17 @@
+                                              Web Game Development
+Abstract: 
+To develop A Jet Game Using HTML-5 And JavaScript.
+This Game Implements The New "CANVAS API" Introduced in HTML-5.Canvas Is a API used for drawing on web screen.
+we could draw geometrical figures, images, color gradients,lines and many.CANVAS basically has two contexts 
+1)2D context
+2)3D or WEBGL context
+when using CANVAS API we apply the properties to Canvas Context and not "DOM" Element of the canvas.Canvas has got two 
+surfaces "canvas element surface" and "drawing surface" both are not equal when we specify them by using CSS properties
+defeult canvas drawing surface is 300x150 This Space Is allocated for drawing when we use CSS properties Whatever values 
+might be specified.
+this game implements five functionalities
+1)CANVAS API
+2)COLLISION DETECTION
+2)MOUSE EVENT HANDLING
+4)RECYCLING
+5)HTML TIMING FUNCTIONS 
